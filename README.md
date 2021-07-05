@@ -1,3 +1,3 @@
-# art_classifier
+# plant_classifier
 ### DataSet
-- Wikiart dataset from Kaggle 
+- Plant disease dataset from Kaggle 
