@@ -8,7 +8,6 @@
   3. Powdery
 - The dataset can be downloaded directly from Kaggle to Google Drive using the notebook:
  PlantDisease_datasetload.ipynb
-- The dataset is also available under the data folder
 
 ### Installation
 - Tensorboard
